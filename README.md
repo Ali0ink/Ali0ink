@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ali0ink
+- 👋 Hi, I’m @Ali Hosseiny
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning webdevelopment
 
